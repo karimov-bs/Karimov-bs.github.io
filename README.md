@@ -1,2 +1,2 @@
-# Karimov-bs.github.io
+# Karimovbs.github.io
 Site
