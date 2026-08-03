@@ -1,13 +1,22 @@
 # Karimovbs.github.io
 Site
-/
-├── index.html
-├── about.html
-├── projects.html
-├── contact.html
+ karimov-bs.github.io/
+│
+├── index.html      ← paste my code
+├── about.html      ← paste my code
+├── trading.html    ← paste my code
+├── projects.html   ← paste my code
+├── contact.html    ← paste my code
+│
 ├── assets/
 │   ├── css/
+│   │   ├── style.css
+│   │   ├── responsive.css
+│   │   └── animations.css
+│   │
 │   ├── js/
-│   ├── images/
-│   └── fonts/
-└── README.md
+│   │   ├── main.js
+│   │   ├── animations.js
+│   │   └── cursor.js
+│   │
+│   └── images/
