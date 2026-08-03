@@ -1,22 +1,136 @@
 # Karimovbs.github.io
-Site
- karimov-bs.github.io/
-│
-├── index.html      ← paste my code
-├── about.html      ← paste my code
-├── trading.html    ← paste my code
-├── projects.html   ← paste my code
-├── contact.html    ← paste my code
-│
-├── assets/
-│   ├── css/
-│   │   ├── style.css
-│   │   ├── responsive.css
-│   │   └── animations.css
-│   │
-│   ├── js/
-│   │   ├── main.js
-│   │   ├── animations.js
-│   │   └── cursor.js
-│   │
-│   └── images/
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Beck — Creative Direction & Design</title>
+    <meta name="description" content="Beck — Creative direction, design, trading and digital experiences.">
+
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+
+<div class="loader">
+    <span>BECK</span>
+</div>
+
+<header>
+    <a class="logo" href="index.html">BECK</a>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="projects.html">Projects</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+
+
+<main>
+
+<section class="hero">
+
+    <div class="hero-text">
+
+        <p class="tag">
+            CREATIVE DIRECTION / DESIGN / TRADING
+        </p>
+
+        <h1>
+            Building ideas<br>
+            into digital<br>
+            experiences.
+        </h1>
+
+        <p class="intro">
+            I'm Beck Karimov — exploring creativity,
+            technology and markets through design,
+            development and trading.
+        </p>
+
+
+        <a href="projects.html" class="button">
+            Explore Work
+        </a>
+
+    </div>
+
+
+    <div class="hero-image">
+        <div class="circle"></div>
+    </div>
+
+</section>
+
+
+
+<section class="statement">
+
+<h2>
+    Creating with purpose.
+</h2>
+
+<p>
+    A personal space where creativity,
+    strategy and technology meet.
+    Focused on building meaningful digital
+    experiences and continuous improvement.
+</p>
+
+</section>
+
+
+
+<section class="services">
+
+<div class="service-card">
+<h3>01</h3>
+<h2>Creative</h2>
+<p>
+Brand identity, visual direction
+and digital design.
+</p>
+</div>
+
+
+<div class="service-card">
+<h3>02</h3>
+<h2>Development</h2>
+<p>
+Modern websites with clean
+interfaces and interactions.
+</p>
+</div>
+
+
+<div class="service-card">
+<h3>03</h3>
+<h2>Trading</h2>
+<p>
+Market analysis, discipline
+and risk management.
+</p>
+</div>
+
+</section>
+
+
+</main>
+
+
+<footer>
+
+<p>
+© 2026 Beck Karimov
+</p>
+
+</footer>
+
+
+<script src="assets/js/main.js"></script>
+
+</body>
+</html>
